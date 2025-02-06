@@ -1,6 +1,6 @@
 # Ayman Mirghani
 > [LinkedIn](https://www.linkedin.com/in/ayman-mirghani-448882229/)\
-> [GitHub](https://github.com/Aymanfox2002/AymanFox2002/)
+> [GitHub](https://github.com/Aymanfox2002)
 ---
 ## Work Experience
  Software developer, React developer
