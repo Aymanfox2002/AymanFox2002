@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ayman Mirghani
+> [LinkedIn](https://www.linkedin.com/in/ayman-mirghani-448882229/)\
+> [GitHub](https://github.com/Aymanfox2002/AymanFox2002/)
+---
+## Work Experience
+ Software developer, React developer
+ 
+ Freelancer
+ 
+ *2025 January - Present* 
+ 
+- **Web Development**: _HTML, CSS, JavaScript_
+- **Version Control**: _Git, GitHub_
+- **Frameworks & Libraries**: _React.js, Bootstrap, MUI_
+- **Design & Accessibility**: _A11y, Responsive Design, Figma_
 
-<!--
-**Aymanfox2002/AymanFox2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## Projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[AlsafwaGlobal](https://alsafwaglobal.com/) **(2024 - 2025)** Al Safwa Company is a company specialized in selling high-quality plastic products and providing reliable import and export services.
